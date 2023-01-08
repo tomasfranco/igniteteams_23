@@ -14,7 +14,24 @@ export default {
     GRAY_400: '#323238',
     GRAY_300: '#7C7C8A',
     GRAY_200: '#C4C4CC',
-    GRAY_100: '#E1E1E6'
+    GRAY_100: '#E1E1E6',
+
+    VIOLET_700: '#411328',
+    VIOLET_600: '#682343',
+
+    PINK_600: '#947086',
+    PINK_500: '#b18d9f',
+    PINK_400: '#c4aab7',
+    PINK_300: '#d482af',
+    PINK_200: '#f29fc8',
+    PINK_100: '#fddcea',
+    PINK_50: '#f9d4e5',
+    
+
+
+
+   
+
   },
   FONT_FAMILY: {
     REGULAR: 'Roboto_400Regular',
