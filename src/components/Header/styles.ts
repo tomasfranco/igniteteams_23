@@ -10,7 +10,7 @@ export const Container = styled.View`
 `;
 
 export const Logo = styled.Image`
-margin-top: 50px;
+margin-top: 100px;
 `;
 
 export const BackButton = styled.TouchableOpacity`
