@@ -8,10 +8,8 @@ export const Container = styled(TextInput)`
   max-height: 56px;
 
  ${({ theme })=> css`
-
   background-color: ${ theme.COLORS.VIOLET_600};
-  color: ${theme.COLORS.WHITE};
- 
+  color: ${theme.COLORS.WHITE}; 
   font-family: ${theme.FONT_FAMILY.REGULAR};
   font-size: ${theme.FONT_SIZE.MD}px;
  `}
