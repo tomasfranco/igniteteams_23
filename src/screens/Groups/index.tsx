@@ -33,7 +33,8 @@ export function Groups(){
             <ListEmpty 
               message="Cadastre o primeiro treinamento!"
             />
-          )}            
+          )}
+          showsVerticalScrollIndicator={false}            
         />  
         <Button
           title="Criar novo treinamento"

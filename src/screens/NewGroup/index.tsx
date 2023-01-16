@@ -12,8 +12,8 @@ export function NewGroup(){
       <Icon />
 
       <Highlight 
-        title="Nova Turma"
-        subtitle="crie a turma para adicionar as pessoas"
+        title="Novas Turmas"
+        subtitle="crie uma turma para adicionar os inscritos"
       />
 
     <Input
